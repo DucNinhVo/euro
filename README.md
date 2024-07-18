@@ -1,0 +1,3 @@
+# Wikipedia Web Scrapping - Euro 2024
+## Introduction
+This idea came to me when I was watching the match between Germany and Denmark in the knockout round of the Euro 2024 championship. During a corner kick situation, I noticed that the players of the Danish team were tall. quite clearly than the players of the German team. I tried to research and found out that: according to wikipedia, the average height of Danish men ranks 4th in the world (181.9 cm) and the average height of German men ranks 16th (180.3 cm). However, if based only on this data, the difference is very small. So to test my assertion, I had the idea to apply web scraping to collect data of the players and calculate the average height of the two teams.
